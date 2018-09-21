@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1537229496 source:c:\users\usuario\desktop\3er semestre\estructura de datos\1 modulo\ejercicio 2\main.cpp
+	<iostream>
+	<cstdlib>
+	<Palabras.h>
+
+1537228493 c:\users\usuario\desktop\3er semestre\estructura de datos\1 modulo\ejercicio 2\include\palabras.h
+	<iostream>
+	<cstdlib>
+	<vector>
+	<ctime>
+
+1537553886 source:c:\users\carlos daniel\documents\curso de programacion\nueva carpeta\ejercicio 2\main.cpp
+	<iostream>
+	<cstdlib>
+	<Palabras.h>
+
+1537553165 c:\users\carlos daniel\documents\curso de programacion\nueva carpeta\ejercicio 2\include\palabras.h
+	<iostream>
+	<cstdlib>
+	<vector>
+	<ctime>
+
